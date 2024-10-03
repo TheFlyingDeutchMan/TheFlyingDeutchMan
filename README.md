@@ -12,6 +12,9 @@ Although I am currently unemployed and do not have prior professional work exper
 - **Languages**: JavaScript, TypeScript, Python, HTML5, CSS3, and currently learning C#
 - **Frameworks & Tools**: React.js, Node.js, SQLite3, Knex.js, Vitest
 
+### 🔧 Previous Projects
+- **[TagHunter](https://taghunter-mako-kotare-2024.pushed.nz/)**: A tool that streamlines the process of managing tags for media content. This project allowed me to refine my full stack development skills by implementing a cohesive front-end interface and a robust back-end architecture.
+
 ### 🌱 Learning and Development
 I am currently learning how to create items in Terraria that manipulate player character stats, as part of my ongoing mod development.
 
@@ -20,4 +23,3 @@ My passion is to create games that are fun, immersive, and explore the creativit
 
 ### 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tim-gerschner/)
-
