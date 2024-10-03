@@ -23,3 +23,4 @@ My passion is to create games that are fun, immersive, and explore the creativit
 
 ### 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tim-gerschner/)
+[Download My PDF](https://github.com/TheFlyingDeutchMan/TheFlyingDeutchMan/raw/main/TimGerschnerCV(3).pdf.pdf)
