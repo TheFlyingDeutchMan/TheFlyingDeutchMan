@@ -13,7 +13,7 @@ Although I am currently unemployed and do not have prior professional work exper
 - **Frameworks & Tools**: React.js, Node.js, SQLite3, Knex.js, Vitest
 
 ### 🔧 Previous Projects
-- **[TagHunter](https://taghunter-mako-kotare-2024.pushed.nz/)**: A game inspired by GeoGessr, and gives you the task to hunt and find all the tags that we have stored. If you so choose to log in, you're able to view the gallery for what is avaiable to find!
+- **[TagHunter](https://taghunter-mako-kotare-2024.pushed.nz/)**: A game inspired by GeoGuessr, and gives you the task to hunt and find all the tags that we have stored. If you so choose to log in, you're able to view the gallery for what is avaiable to find!
 
 ### 🌱 Learning and Development
 I am currently learning how to create items in Terraria that manipulate player character stats, as part of my ongoing mod development.
